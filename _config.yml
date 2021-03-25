@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Mukesh Jangid"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a full-stack web developer having multiple years of experience in all aspects of web development. I can build RESTful APIs with NodeJs, ExpressJs, and MongoDB, and I can write End-to-End tests for APIs and Web applications."
+  bio    : "Builds RESTful APIs with NodeJs, ExpressJs, and MongoDB | Full stack Web developer | Interested in Computer Vision and Deep Learning | Open-source contributor"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
