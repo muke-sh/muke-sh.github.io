@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Mukesh Jangid"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Builds RESTful APIs with NodeJs, ExpressJs, and MongoDB | Full stack Web developer | Interested in Computer Vision and Deep Learning | Open-source contributor"
+  bio    : "Builds RESTful APIs with NodeJs, ExpressJs, and MongoDB \| Full stack Web developer \| Interested in Computer Vision and Deep Learning \| Open-source contributor"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
